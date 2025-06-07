@@ -1,1 +1,1 @@
-# Chip-Design-of-5-Array-Charge-Coupled-Device-CCD-
+# Chip-Design-of-5-Array-Charge-Coupled-Device-CCD
