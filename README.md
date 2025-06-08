@@ -6,6 +6,12 @@ This repository presents the **layout, schematic design, and simulation of a Cha
 
 ---
 
+## Tools & Technologies
+
+- **EDA:** Cadence Virtuoso (schematic, layout, simulation)
+- **DRC:** Calibre
+---
+
 ## Device Architecture
 
 - **CCD Structure:**  
@@ -23,12 +29,6 @@ This repository presents the **layout, schematic design, and simulation of a Cha
   - The chip (108,000 × 12,000 μm) is divided into subfields for manufacturability and stitched during lithography.
   - Strategic pad placement ensures efficient interfacing and minimal parasitic effects.
 
----
-
-## Tools & Technologies
-
-- **EDA:** Cadence Virtuoso (schematic, layout, simulation)
-- **DRC:** Calibre
 ---
 
 ## Design Flow
