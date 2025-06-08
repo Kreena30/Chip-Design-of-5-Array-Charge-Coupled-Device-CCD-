@@ -1,12 +1,12 @@
-# 📷 Chip Design of Penta Linear Array Charge Couple Device (CCD)
+# Chip Design of Penta Linear Array Charge Couple Device (CCD)
 
 ## Overview
 
-This repository presents the **layout, schematic design, and simulation of a Charge-Coupled Device (CCD) chip**, focusing on the architecture and optimization of a linear five-array CCD using Cadence Virtuoso.
+This repository presents the **layout, schematic design, and simulation of a Charge-Coupled Device (CCD) chip**, focusing on the architecture and optimization of a linear five-array CCD using **Cadence Virtuoso**.
 
 ---
 
-## 🏗️ Device Architecture
+## Device Architecture
 
 - **CCD Structure:**  
   - Five linear arrays, each with 6000 pixels and distinct sections: imaging area, bias, storage, transfer, two-phase Horizontal Shift Register (HSR), and output.
@@ -25,13 +25,13 @@ This repository presents the **layout, schematic design, and simulation of a Cha
 
 ---
 
-## 💻 Tools & Technologies
+## Tools & Technologies
 
 - **EDA:** Cadence Virtuoso (schematic, layout, simulation)
 - **DRC:** Calibre
 ---
 
-## 🧩 Design Flow
+## Design Flow
 
 1. **Pixel Schematic & Layout:**  
    - Electrical and physical design of the pixel, ensuring correct resistance and capacitance.
@@ -48,7 +48,7 @@ This repository presents the **layout, schematic design, and simulation of a Cha
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 - **Optimized RC Paths:**  
   - Metal strapping and layout iterations significantly reduced rise/fall times and delays.
